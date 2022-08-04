@@ -38,6 +38,8 @@ Then, install ansible via `pip3`:
 
 ```bash
 pip3 install ansible
+pip3 install ansible-navigator
+ansible-galaxy collection list
 ```
 
 (or use whatever version you want).
